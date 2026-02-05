@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunknumerology=globalThis.webpackChunknumerology||[]).push([[4551],{8962(e){e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Basics","slug":"/category/basics","permalink":"/docs/category/basics","sidebar":"tutorialSidebar","navigation":{"next":{"title":"Birthday number","permalink":"/docs/Basics/Birthday number"}}}}')}}]);
